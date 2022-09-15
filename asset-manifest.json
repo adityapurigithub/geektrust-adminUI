@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/geektrust-adminUI/static/css/main.34d6d58d.css",
+    "main.js": "/geektrust-adminUI/static/js/main.7161de3c.js",
+    "index.html": "/geektrust-adminUI/index.html",
+    "main.34d6d58d.css.map": "/geektrust-adminUI/static/css/main.34d6d58d.css.map",
+    "main.7161de3c.js.map": "/geektrust-adminUI/static/js/main.7161de3c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34d6d58d.css",
+    "static/js/main.7161de3c.js"
+  ]
+}
